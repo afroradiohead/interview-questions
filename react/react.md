@@ -1,0 +1,2 @@
+# What are the advantages of using React?
+Writing javascript within the same file as the html elements. This enables faster coding through navigation of less files.
