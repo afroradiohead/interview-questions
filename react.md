@@ -7,3 +7,5 @@ Writing javascript within the same file as the html elements. This enables faste
 # What are the limitations of React?
 Dom rendering doesn't always reflect proper results
 
+# What is useState() in React?
+Allows the react component to reflect it's current state onto the dom
