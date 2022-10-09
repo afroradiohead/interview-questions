@@ -3,3 +3,7 @@ React is a javascript framework founded by facebook and their desire to render l
 
 # What are the advantages of using React?
 Writing javascript within the same file as the html elements. This enables faster coding through navigation of less files.
+
+# What are the limitations of React?
+Dom rendering doesn't always reflect proper results
+
